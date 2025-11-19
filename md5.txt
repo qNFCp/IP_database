@@ -6,9 +6,9 @@ b56ffb2fa5ca6bf7fc37e617a1f41630  LICENSE
 10ca3d4ca3f6c7599d33731309b701f4  db-ip/dbip-asn-lite.mmdb
 0897fbdd1996d8127542aadd3829e132  db-ip/dbip-city-lite.mmdb
 49b127d98d7d805224ca82a50e8c9495  db-ip/dbip-country-lite.mmdb
-1074acf7ca4d67e44749d2f95ca4dfd5  geolite/GeoLite2-ASN.mmdb
-6829e252c91fa730c0cb121809053d09  geolite/GeoLite2-City.mmdb
-06e260d9c1a7bb262a9dc70ed1c13aa2  geolite/GeoLite2-Country.mmdb
+6a9390134cdb06e1c6976985b46fa10c  geolite/GeoLite2-ASN.mmdb
+d31bd6f8ae16350f1a5542835f80b626  geolite/GeoLite2-City.mmdb
+2cc7616cdc7a1a4ecb13ce43b81cf840  geolite/GeoLite2-Country.mmdb
 d91a12de73d6673d8b5e3af5e43f590d  ip2region/ip.merge.txt
 e0ddcd2d9f6b80f4703faa12778850ff  ip2region/ip2region_v4.xdb
 d9e4356146165d9dabba39e87869460b  ipdb/city.free.ipdb
