@@ -77,6 +77,8 @@ jobs:
         if: steps.md5.outputs.md5_changed == 'true'
         run: |
           echo $(date +'%Y%m%d') > date.txt
+          # Date change affects checksums, so rebuild manifest before committing
+          python .github/scripts/md5_manifest.py
           git config --local user.email "i@qnfcp.xyz"
           git config --local user.name "qNFCp"
           git add .
