@@ -2,11 +2,11 @@
 0b130f8f420ecc90be37b4b4be098db9  .github/workflows/main.yml
 b56ffb2fa5ca6bf7fc37e617a1f41630  LICENSE
 5c67b4d73414c598771446f34d5cef98  README.md
-89eb393b97a35d517cde752b4ad52120  date.txt
+f00b5e9935a78aeb14181f07c3b69251  date.txt
 37e6c2cfbe1d28d0f5f2fe1550b32df4  db-ip/dbip-asn-lite.mmdb
 437ed00e46acf972daf34a0a33d781f4  db-ip/dbip-city-lite.mmdb
 867017d3a9d27f0f223d1bc356802314  db-ip/dbip-country-lite.mmdb
-fefb9ac8fc910b462ffe3c568f7b6893  geolite/GeoLite2-ASN.mmdb
+58b39cc10d6d0e0822dd80af02b57bdd  geolite/GeoLite2-ASN.mmdb
 7d7e2e879c447f604654878dd3da00de  geolite/GeoLite2-City.mmdb
 734915168eb0b789e4b5b9eeeb7e0fcc  geolite/GeoLite2-Country.mmdb
 d91a12de73d6673d8b5e3af5e43f590d  ip2region/ip.merge.txt
